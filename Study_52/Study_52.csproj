@@ -4,6 +4,12 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>HJKWON</Authors>
+    <Company>KNUH</Company>
+    <Product>Study_52</Product>
+    <PackageProjectUrl>https://github.com/kwon-hyeok-jun/Study_52</PackageProjectUrl>
+    <PackageId>Study_52</PackageId>
   </PropertyGroup>
 
 </Project>
